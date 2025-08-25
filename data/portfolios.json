@@ -75,6 +75,21 @@
         "portfolio": [
             {
                 "allocation": 100,
+                "fund": "WEBN"
+            }
+        ],
+        "brokers": [
+            "DEGIRO",
+            "Interactive Brokers",
+            "Lynx",
+            "Saxo Bank",
+            "Easybroker"
+        ]
+    },
+    {
+        "portfolio": [
+            {
+                "allocation": 100,
                 "fund": "Meesman Wereldwijd Totaal"
             }
         ],

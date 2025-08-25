@@ -232,5 +232,18 @@
         "kiid": "https://www.ishares.com/nl/particuliere-belegger/nl/literature/kiid/kiid-ishares-msci-world-small-cap-ucits-etf-usd-acc-nl-ie00bf4rfh31-nl.pdf",
         "factsheet": "https://www.ishares.com/nl/particuliere-belegger/nl/literature/fact-sheet/wsml-ishares-msci-world-small-cap-ucits-etf-fund-fact-sheet-nl-nl.pdf",
         "index": "MSCI World Small Cap Index"
+    },
+    {
+        "name": "Amundi Prime All Country World UCITS ETF Acc",
+        "type": "ETF",
+        "symbol": "WEBN",
+        "isin": "IE0003XJA0J9",
+        "logo": "amundi.png",
+        "totalExpenseRatio": 0.07,
+        "internalTransactionCosts": 0,
+        "dividendLeakage": 12,
+        "kiid": "https://www.amundietf.nl/pdfDocuments/kid-priips/IE0003XJA0J9/NLD/NLD/20250214",
+        "factsheet": "https://www.amundietf.nl/pdfDocuments/monthly-factsheet/IE0003XJA0J9/NLD/NLD/RETAIL/ETF/20250731",
+        "index": "Solactive GBS Global Markets Large & Mid Cap Index"
     }
 ]

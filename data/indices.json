@@ -120,5 +120,16 @@
         "marketCapitalization": 75243006.67,
         "percentageOfTotalMarketCapitalization": 92.8681203778817,
         "factsheet": ""
+    },
+    {
+        "name": "Solactive GBS Global Markets Large & Mid Cap Index",
+        "markets": "all-world",
+        "sizes": [
+            "large",
+            "mid"
+        ],
+        "marketCapitalization": 0,
+        "percentageOfTotalMarketCapitalization": 85.0,
+        "factsheet": "https://www.solactive.com/wp-content/uploads/solactiveip/en/Factsheet_DE000SLA7737.pdf"
     }
 ]
